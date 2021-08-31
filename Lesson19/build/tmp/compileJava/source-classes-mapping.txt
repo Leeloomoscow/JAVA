@@ -1,4 +1,0 @@
-Main.java
- Main
-Encapsulation.java
- Encapsulation

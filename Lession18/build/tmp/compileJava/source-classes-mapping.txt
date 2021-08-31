@@ -1,4 +1,0 @@
-Main.java
- Main
-StaticVariablesAndMethods.java
- StaticVariablesAndMethods
