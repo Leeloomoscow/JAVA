@@ -1,8 +1,0 @@
-Person.java
- Person
-Info.java
- Info
-Animal.java
- Animal
-Main.java
- Main

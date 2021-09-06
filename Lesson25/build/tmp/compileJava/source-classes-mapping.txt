@@ -1,6 +1,0 @@
-Head.java
- Head
-Main.java
- Main
-DollySheet.java
- DollySheet
